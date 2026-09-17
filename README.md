@@ -1,1 +1,1 @@
-Data and/or codes for the different figures are in the relevant branches (figure_1, figure_2 and so on)
+The different files are for different N. In each file the columns are: r, sigma-squared, LLE, number of samples
