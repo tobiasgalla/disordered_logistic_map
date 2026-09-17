@@ -1,1 +1,1 @@
-Data and/or codes for the different figures are in the relevant branches (figure_1, figure_2 and so on)
+ The columns are: r, sigma-squared, fixed points, 2-cycles, 4-cycles, 8-cycles, higher-order attractors.
