@@ -1,1 +1,1 @@
-# disordered_logistic_map
+code to generate Fig 1
